@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+.expo-scaffold/
+dist/
+build/
+web-build/
+coverage/
+package-lock.json
+PLAN.md
+RUNBOOK.md
+expo-env.d.ts
